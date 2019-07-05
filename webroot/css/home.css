@@ -24,6 +24,7 @@ a {
     -ms-transition: all 0.2s;
     -o-transition: all 0.2s;
     transition: all 0.2s;
+    color: red;
 }
 
 a:hover, a:active {
